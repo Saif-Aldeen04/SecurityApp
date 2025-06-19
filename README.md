@@ -1,7 +1,6 @@
 # 🔐 Security App
 
-A simple Java desktop application for encrypting/decrypting messages and generating strong passwords.  
-🔗 [View on GitHub](https://github.com/Saif-Aldeen04/SecurityApp)
+A simple Java desktop application for encrypting/decrypting messages and generating strong passwords.
 
 ---
 
